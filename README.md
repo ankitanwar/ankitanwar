@@ -3,7 +3,6 @@
 ### Connect with me:
 
 <img align="left" alt="gmail" width="22px" src="https://user-images.githubusercontent.com/51502980/102014435-f411a180-3d7b-11eb-964e-6c50be108aff.png" /> --> tanwariam@gmail.com<br>
-
 <br />
 
 ### Languages and Tools:
